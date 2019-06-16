@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\CodeMotors\CodeMotors\bin\Debug\CodeMotors.exe.config
+C:\Users\User\Desktop\CodeMotors\CodeMotors\bin\Debug\CodeMotors.exe
+C:\Users\User\Desktop\CodeMotors\CodeMotors\bin\Debug\CodeMotors.pdb
+C:\Users\User\Desktop\CodeMotors\CodeMotors\obj\Debug\CodeMotors.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CodeMotors\CodeMotors\obj\Debug\CodeMotors.Form1.resources
+C:\Users\User\Desktop\CodeMotors\CodeMotors\obj\Debug\CodeMotors.Properties.Resources.resources
+C:\Users\User\Desktop\CodeMotors\CodeMotors\obj\Debug\CodeMotors.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CodeMotors\CodeMotors\obj\Debug\CodeMotors.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeMotors\CodeMotors\obj\Debug\CodeMotors.exe
+C:\Users\User\Desktop\CodeMotors\CodeMotors\obj\Debug\CodeMotors.pdb
